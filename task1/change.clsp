@@ -1,0 +1,3 @@
+(mod (puzzlehash amount my_puzzlehash my_amount)
+(list (list 72 my_puzzlehash) (list 73 my_amount) (list 51 puzzlehash amount) (list 51 my_puzzlehash (- my_amount amount)))
+)
