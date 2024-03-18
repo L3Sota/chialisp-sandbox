@@ -1,0 +1,18 @@
+(mod (puzzlehashes my_puzzlehash my_amount)
+
+;(defun coinlist (ph)
+;    (if ph
+;    (
+;        (c
+;            (list 51 (f ph) 1)
+;            (coinlist ((r ph)))
+;        )
+;    )
+;    (
+;        (list 51 my_puzzlehash)
+;    )
+;    )
+;)
+
+(list (list 72 my_puzzlehash) (list 73 my_amount) (list (puzzlehashes)))
+)
