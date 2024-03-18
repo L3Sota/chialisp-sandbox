@@ -1,0 +1,3 @@
+(mod (puzzlehash amount)
+(list (list 51 puzzlehash amount))
+)
